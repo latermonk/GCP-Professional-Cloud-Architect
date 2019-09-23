@@ -1,5 +1,20 @@
 # GoogleCloudPlatform-PCA   
 
+
+
+
+
+![gcp-bigdata](_image/gcp-bigdata.png)
+
+
+
+![bd-data-warehouse](_image/bd-data-warehouse.png)
+
+
+
+
+
+
 ##  how diffcult is gcp-Professional Cloud Architect      
 https://help.acloud.guru/hc/en-us/articles/360000487816-How-difficult-is-Google-s-Professional-Cloud-Architect-PCA-certification-exam    
 
