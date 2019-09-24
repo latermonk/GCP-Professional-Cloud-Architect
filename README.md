@@ -1,7 +1,12 @@
 # GoogleCloudPlatform-PCA   
 
-**aws vs gcp on bigdata** 
+
+#  GoogleCloudPlatform-DataScience
+
+#  **aws vs gcp on bigdata** 
 ![aws-gcp-on-bigdata](_image/aws-gcp-on-bigdata.png)
+
+![gcp-bigdata](_image/gcp-bigdata.png)
 
 ##  dataProc [hadoop/spark]
 
@@ -22,7 +27,7 @@
 
 -----------
 
-![gcp-bigdata](_image/gcp-bigdata.png)
+
 
 
 
