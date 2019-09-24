@@ -1,8 +1,26 @@
 # GoogleCloudPlatform-PCA   
 
+**aws vs gcp on bigdata** 
+![aws-gcp-on-bigdata](_image/aws-gcp-on-bigdata.png)
+
+##  dataProc [hadoop/spark]
+
+![gcp-dataproc-integrations](_image/gcp-dataproc-integrations.png)
+
+##  pub/sub
+![gcp-pubsub-dataglobal-messaging-and-event-ingestion](_image/gcp-pubsub-dataglobal-messaging-and-event-ingestion.png)
+
+##  dataFlow
+![gcp-diagram-dataflow](_image/gcp-diagram-dataflow.png)
+
+##  bigQuery
+
+![gcp-bigquery-01](_image/gcp-bigquery-01.png)
 
 
 
+
+-----------
 
 ![gcp-bigdata](_image/gcp-bigdata.png)
 
